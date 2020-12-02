@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+  }  
+
+.logo .ad {
+    display: block;
+    margin: auto;
+}
